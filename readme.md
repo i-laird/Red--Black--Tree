@@ -1,0 +1,1 @@
+There are known issues with the tree. While insertion works deletion is not all the way there
